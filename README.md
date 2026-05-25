@@ -12,7 +12,7 @@ Key Insights from the Data:
 📌 The data could not explain why customers churned because there was no attribution or post-purchase feedback data — a gap I flagged as a priority data collection recommendation for 2025.
 These were not just numbers on a screen. Each finding pointed to a real business decision the leadership team needed to make before the next planning cycle.
 Tools used: PostgreSQL
-Attached is the google drive containing the cleaned dump, solutions to each query using SQL analysis ad Analyst Memo.
+Attached is the google drive containing the cleaned dump, solutions to each query using SQL analysis and Analyst Memo.
 
 https://drive.google.com/drive/folders/1rCPOUX8654PF3pi1_LvgW9uW9pCOpuU9?usp=sharing
 
