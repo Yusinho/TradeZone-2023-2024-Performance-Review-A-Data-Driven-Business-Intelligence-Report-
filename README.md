@@ -27,6 +27,7 @@
 - [Business Recommendations](#business-recommendations)
 - [Project Structure](#project-structure)
 - [How to Reproduce This Analysis](#how-to-reproduce-this-analysis)
+- [Author](#-author)
 
 ---
 
@@ -786,6 +787,10 @@ psql -d tradezone_analytics -f analysis/01_customer_acquisition_conversion.sql
 psql -d tradezone_analytics -f analysis/02_product_revenue_performance.sql
 # ... and so on for all 8 queries
 ```
+----
+## 👤 Author
+
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho/ / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 
@@ -793,5 +798,6 @@ psql -d tradezone_analytics -f analysis/02_product_revenue_performance.sql
 
 Attached is the google drive containing the cleaned dump, solutions to each query using SQL analysis and Analyst Memo.
 https://drive.google.com/drive/folders/1rCPOUX8654PF3pi1_LvgW9uW9pCOpuU9?usp=sharing
+
 
 #DataAnalytics #SQL #PostgreSQL #Ecommerce #BusinessIntelligence #DataDriven #Nigeria #TechInAfrica
